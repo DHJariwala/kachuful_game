@@ -19,6 +19,7 @@ python3 -m venv venv
 <br>
 
 3. Activate virtual environment
+
 For Mac,
 ```sh
 source venv/bin/activate
